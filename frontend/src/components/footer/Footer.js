@@ -9,7 +9,6 @@ const Footer = () => {
   return (
     <div className="bg-gray-800 text-white">
       <div className="flex justify-around lg:gap-24 gap-5 md:p-10 p-5">
-
         <div className="md:flex md:gap-24">
           <div className="text-left m-4">
             <h4 className="font-bold text-lg text-center">Contact Us</h4>
